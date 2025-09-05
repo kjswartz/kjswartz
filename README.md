@@ -32,7 +32,7 @@ I began my career in the U.S. Air Force as an Intelligence Analyst, where I disc
 
 ---
 
-### **Senior Software Engineer**
+### **Senior Software Engineer (W2)**
 #### Checkr, Inc. | Nov 2021 - Jun 2024
 - Led technical design, documentation, and delivery for **Random Drug & Alcohol Testing** and **international compliance features** using Ruby on Rails, React, TypeScript, and AWS.
 - **Owned and refactored Region Compliance Service**, enabling robust, scalable data validation and hosting multi team workshops to gather and implement requirements.
@@ -40,21 +40,21 @@ I began my career in the U.S. Air Force as an Intelligence Analyst, where I disc
 
 ---
 
-### **Senior Developer**
+### **Senior Developer (Contract)**
 #### Blackbird Studios | May 2021 - Oct 2021
 - Built web applications with **Ruby on Rails, ReactJS (TypeScript), and GraphQL**.
 - **Led client/discovery meetings** to shape technical solutions and manage project scope.
 
 ---
 
-### **Senior Frontend Engineer**
+### **Senior Frontend Engineer (W2)**
 #### Gooee | Mar 2018 - Apr 2021
 - Visualized complex data sets with AMCharts and D3.js, developed real time analytics solutions in React/TypeScript/Angular.
 - **Drove code quality** via code reviews, test coverage, and collaborative design.
 
 ---
 
-### **Web Developer**
+### **Web Developer (W2)**
 #### Haneke Design | Jun 2015 - Mar 2018
 - Built and deployed fullstack applications, implemented analytics and monitoring, and provided accurate technical estimates to clients and project stakeholders.
 
